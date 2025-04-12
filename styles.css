@@ -1,0 +1,55 @@
+/* Estilização geral */
+body {
+  background-color: #f0f8ff; /* Cor suave */
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* Título centralizado e com cor diferente */
+h1 {
+  color: #2c3e50;
+  text-align: center;
+}
+
+/* Parágrafo com fonte maior e justificado */
+p {
+  font-size: 18px;
+  text-align: justify;
+}
+
+/* Lista com espaçamento maior entre os itens */
+ul {
+  padding-left: 20px;
+  line-height: 2;
+}
+
+/* Imagem com bordas arredondadas */
+img {
+  border-radius: 10px;
+}
+
+/* Tabela estilizada */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+/* Link com efeito ao passar o mouse */
+a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e74c3c;
+}
